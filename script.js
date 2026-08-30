@@ -74,13 +74,13 @@ const projects = [
         githubLink: "https://github.com/FutureG001/Igbo_to_code",
         liveDemo: "https://igbo-to-code.onrender.com"
     },
-    {
+    /*{
         title: "Graphic Design Learning Platform",
         description: "An interactive learning framework built with modular asset loading and structured guide sections.",
         technologies: ["PHP", "MySQL", "JavaScript"],
         githubLink: "https://github.com/YOUR_GITHUB_USERNAME/Graphic-Design-Tutorial",
         liveDemo: "https://YOUR_GITHUB_USERNAME.github.io/Graphic-Design-Tutorial"
-    }
+    }*/
 ];
 
 const projectsContainer = document.getElementById("projects-container");
